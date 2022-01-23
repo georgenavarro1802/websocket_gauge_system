@@ -1,0 +1,5 @@
+Django
+channels
+psutil
+channels-redis
+asgiref

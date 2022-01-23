@@ -1,0 +1,23 @@
+.idea/
+.idea/*
+
+**/__pycache__/
+
+*.swp
+system/.settings.py.swp
+system/__init__.pyc
+system/settings.pyc
+
+# MacOS
+*.DS_Store
+tests/*
+
+venv/
+venv/*
+
+.env
+system/.env
+
+*.pdf
+
+db.sqlite3
